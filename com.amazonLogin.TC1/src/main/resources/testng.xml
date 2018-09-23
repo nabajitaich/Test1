@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="amazon_17/8">
+  <test thread-count="5" name="Test01">
+    <classes>
+      <class name="TC1.Login"/>
+    </classes>
+  </test> <!-- Test01 -->
+</suite> <!-- amazon_17/8 -->
